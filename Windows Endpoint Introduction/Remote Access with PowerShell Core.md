@@ -1,0 +1,1 @@
+Với khả năng truy cập từ xa, chúng ta có thể áp dụng tất cả những gì đã học về Windows PowerShell để kiểm tra các thiết bị đầu cuối Windows khác mà không cần dựa vào Trình xem sự kiện hoặc các thành phần giao diện người dùng khác. Tốc độ và hiệu quả tăng lên này sẽ mang lại lợi ích to lớn trong các cuộc điều tra quy mô lớn
