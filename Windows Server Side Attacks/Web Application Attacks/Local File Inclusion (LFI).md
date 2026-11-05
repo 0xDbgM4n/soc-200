@@ -1,7 +1,4 @@
-┌─────────────────────────────────────────────────────────────┐
-│  LOCAL FILE INCLUSION                                                                        │
-│  MITRE: Initial Access > Exploit Public-Facing App                               │
-└─────────────────────────────────────────────────────────────┘
+
 
 📌 MÔ TẢ:
    - Lỗi web app cho phép đọc file tùy ý trên server

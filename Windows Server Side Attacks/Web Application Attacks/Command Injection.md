@@ -1,7 +1,3 @@
-┌─────────────────────────────────────────────────────────────┐
-│  COMMAND INJECTION                                                                        │
-│  MITRE: Execution > Command and Scripting Interpreter                    │
-└─────────────────────────────────────────────────────────────┘
 
 📌 MÔ TẢ:
    - Web app cho phép chèn command OS vào input

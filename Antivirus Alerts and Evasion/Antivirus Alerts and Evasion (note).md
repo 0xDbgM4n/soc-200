@@ -54,7 +54,7 @@
     
 - **Hàm quan trọng:** `AmsiScanBuffer` và `AmsiOpenSession`. Nếu một trong hai hàm này trả về mã lỗi hoặc bị vô hiệu hóa, AMSI sẽ bị "mù".
 
-![[Pasted image 20261021235115.png]]
+![X](./Pasted%20image%2020261021235115.png)
 
 ### 2.2. Các kỹ thuật Bypass AMSI phổ biến (dành cho Pentester/Red Team)
 

@@ -15,7 +15,7 @@ Các loại log:
 
 ---
 
-![[Pasted image 20261013233939.png]]
+![x](./Pasted%20image%2020261013233939.png)
 
 Phân tích kĩ Event này (dạng XML)
 - `TargetUserName`: cho biết ai đã đăng nhập vào thiết bị

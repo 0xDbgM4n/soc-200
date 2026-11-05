@@ -1,7 +1,3 @@
-┌─────────────────────────────────────────────────────────────┐
-│  BRUTE FORCE LOGINS                                                                         │
-│  MITRE: Credential Access > Brute Force                                              │
-└─────────────────────────────────────────────────────────────┘
 
 📌 ĐẶC ĐIỂM:
    - Nhiều login failure liên tiếp

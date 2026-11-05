@@ -1,7 +1,4 @@
-┌─────────────────────────────────────────────────────────────┐
-│  FILE UPLOAD                                                                                        │
-│  MITRE: Persistence > Server Software Component                              │
-└─────────────────────────────────────────────────────────────┘
+
 
 📌 MÔ TẢ:
    - Upload web shell hoặc tool lên server

@@ -3,7 +3,7 @@
 ---
 Trong wazuh thì có xây dựng sẵn kha khá rule mặc định nhưng nó cũng cho người dùng có thể cấu hình thêm các rule khác. Dưới đây là ví dụ về 1 rule được cấu hình  sẵn trong wazuh
 
-![[Pasted image 20261011155251.png]]
+![x](./Pasted%20image%2020261011155251.png)
 
 Hãy phân tích rule này:
 - `rule id`: Đây là mã định danh duy nhất cho quy tắc trong wazuh

@@ -17,7 +17,7 @@ Khi có mối đe dọa `IDS` thông qua `next-generation firewall` để block 
 
 #### Cách thức hoạt động của IDS dựa trên chữ ký
 
-![[Pasted image 20261020145234.png]]
+![x](./Pasted%20image%2020261020145234.png)
 
 - **1. Lưu trữ chữ ký tấn công**  
     Các chữ ký tấn công, là những mẫu duy nhất liên quan đến hoạt động độc hại, được lưu trữ trong cơ sở dữ liệu.
@@ -41,7 +41,7 @@ Khi có mối đe dọa `IDS` thông qua `next-generation firewall` để block 
 
 #### Cơ chế hoạt động của IDS dựa trên bất thường
 
-![[Pasted image 20261020145829.png]]
+![x](./Pasted%20image%2020261020145829.png)
 
 ##### 1. Xác định các mốc cơ sở
 

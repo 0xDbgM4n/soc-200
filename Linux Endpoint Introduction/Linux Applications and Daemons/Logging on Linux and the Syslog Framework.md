@@ -66,7 +66,7 @@ _Ví dụ:_
 | 15            | solaris-cron    | Scheduling daemon                        |
 | 16-23         | local0 – local7 | Locally used facilities                  |
 
-![[Pasted image 20261018212227.png]]
+![x](./Pasted%20image%2020261018212227.png)
 #### d) Bảng vị trí File Log trên Linux (Phân biệt CentOS/RHEL vs Ubuntu/Debian)
 
 Đây là bảng "bỏ túi" bắt buộc phải nhớ.
